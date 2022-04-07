@@ -5,9 +5,9 @@ start projet :
 
 * docker-compose up
 
-server -> localhost:5000
+server -> localhost:5556
 
-bdd -> localhost:8080
+bdd -> localhost:5234
 
 # admin : 
 username : admin
